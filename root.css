@@ -1,0 +1,11 @@
+:root {
+    --bg-color: #0f172a;
+    --chat-bg: #1e293b;
+    --user-msg-bg: #3b82f6;
+    --bot-msg-bg: #475569;
+    --input-bg: #334155;
+    --text-primary: #f8fafc;
+    --text-secondary: #cbd5e1;
+    --accent-color: #10b981;
+    --glow-color: rgba(59, 130, 246, 0.5);
+}
